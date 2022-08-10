@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "name": "store 1",
+        "imageUrl": "",
+        "coordinates":[
+            48.8730869,
+            2.312965
+        ],
+        "articles": [
+            {
+                "id": "1",
+                "name": "item 1",
+                "price": 10.11,
+                "imageUrls": ["", ""]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "store 2",
+        "imageUrl": "",
+        "coordinates":[
+            38.8730869,
+            3.312965
+        ],
+        "articles": [
+            {
+                "id": "1",
+                "name": "item 1",
+                "price": 9.11,
+                "imageUrls": ["", ""]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "store 3",
+        "imageUrl": "",
+        "coordinates":[
+            18.8730869,
+            1.312965
+        ],
+        "articles": [
+            {
+                "id": "1",
+                "name": "item 1",
+                "price": 10.11,
+                "imageUrls": ["", ""]
+            }
+        ]
+    }
+]
